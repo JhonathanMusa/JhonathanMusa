@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="/mesa_de_trabajo.png" alt="My cool logo"/>
+![Mesa de trabajo 1](https://user-images.githubusercontent.com/54297074/92019641-8f768d80-ed1c-11ea-92f8-a9649b161665.png)
+
 <!--
 **JhonathanMusa/JhonathanMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
