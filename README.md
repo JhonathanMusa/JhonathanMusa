@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mesa de trabajo 1]
+:computer: Web Developer
 
 <!--
 **JhonathanMusa/JhonathanMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
