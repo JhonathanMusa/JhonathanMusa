@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 :computer: Web Developer 
-- 🌱 I’m currently learning more about full-stack web development
-- 👯 I’m looking to collaborate on projects that need help
+- 🌱 Developer
 
 
 
